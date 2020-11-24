@@ -12,7 +12,7 @@ requirements = [
     'Flask==0.10.1',
     'Flask-WTF==0.12',
     'itsdangerous==0.24',
-    'Jinja2==2.8',
+    'Jinja2==2.10.1',
     'MarkupSafe==0.23',
     'pymongo==3.3.0',
     'Werkzeug==0.11.10',
