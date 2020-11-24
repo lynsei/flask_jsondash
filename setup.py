@@ -15,7 +15,7 @@ requirements = [
     'Jinja2==2.8',
     'MarkupSafe==0.23',
     'pymongo==3.3.0',
-    'Werkzeug==0.11.10',
+    'Werkzeug==0.15.3',
     'WTForms==2.1',
 ]
 
